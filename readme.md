@@ -16,9 +16,8 @@ viewing, so you can share that URL to share the network.
 Here is [a blog post](http://blog.embed.ly/post/57097477000/visualizing-discussions-on-reddit-with-a-d3-network-and) with examples of visualizations with the network.
 
 ## Why I made this
-Before Reddit I would browse HN, and after the switch I noticed how nested the
-discussions became on Reddit.  I also wanted a quick way to find top comments
-through a conversation.  A network visualization linking responses to parent
+I also wanted a quick way to find top comments
+through a conversation.  A network visualisation linking responses to parent
 posts made sense.
 
 I also love looking social data and conversations online. Reddit is a natural
