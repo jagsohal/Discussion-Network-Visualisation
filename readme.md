@@ -1,6 +1,6 @@
-# Reddit Discussion Network Visualization
+# Reddit Discussion Network Visualisation
 ## Info
-This is a network visualization of Reddit discussions.  You can choose a post
+This is a network visualisation of Reddit discussions.  You can choose a post
 from the front page, or add a link from a reddit discussion, for example:
 "http://www.reddit.com/r/IAmA/comments/1jd005/we_are_engineers_and_scientists_on_the_mars/"
 
@@ -13,9 +13,8 @@ OP is colored orange, all other nodes are black. If they post more than once, I
 give them a random color.  The URL updates to reflect the conversation you are
 viewing, so you can share that URL to share the network.
 
-Here is [a blog post](http://blog.embed.ly/post/57097477000/visualizing-discussions-on-reddit-with-a-d3-network-and) with examples of visualizations with the network.
 
-## Why I made this
+## Why I made this - I love the bottom half of the internet but want to explore it more
 I also wanted a quick way to find top comments
 through a conversation.  A network visualisation linking responses to parent
 posts made sense.
